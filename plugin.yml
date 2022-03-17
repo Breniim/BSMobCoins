@@ -1,0 +1,9 @@
+name: BSMobCoins
+author: Breniim
+version: 1.0-snapshot
+main: me.breniim.bsmobcoins.Main
+depend: [Citizens, HolographicDisplays]
+commands:
+   mobcoins:
+      aliases:
+      - mc

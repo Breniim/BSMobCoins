@@ -1,0 +1,23 @@
+Store:
+   Itens:
+      Teste:
+         Name: '&CEspada'
+         Material: 'DIAMOND_SWORD'
+         Data: 0
+         Amount: 1
+         Slot: 10
+         Lore:
+         - '&cThis'
+         - '&bLore are'
+         - '&aTest'
+         Enchantments-Use: true
+         Enchantments:
+            Damage:
+               Type: 'DAMAGE_ALL'
+               Level: 10
+         #When TRUE executes only the command
+         #Quando TRUE executa somente o comando
+         Illustrative-item: false
+         Commands:
+         - 'give {player} dirt 1'
+         Price: 5.0
